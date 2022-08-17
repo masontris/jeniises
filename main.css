@@ -1,0 +1,41 @@
+#jeni{
+   color: black; 
+   background-color: rgba(250, 250, 6, 0.486);
+   font-size: 50px;
+   margin-top: 0px;
+   text-align: left;
+   text-indent:20px;
+   padding: 50px;
+}
+#aotrang{
+     height: 250px;
+     width: 260px;
+}
+#trangchu{
+   left: 680px;
+}
+#sanpham{
+   left: 850px;
+}
+#aboutus{
+   left: 995px;
+}
+#blogs{
+   left: 1140px;
+}
+#lienhe{
+   left: 1240px;
+}
+.tieude{
+   color: black;
+   font-size: 20px;
+   position: fixed;
+   text-transform: uppercase;
+   top: 80px;
+   text-decoration: none;
+   z-index: 2;
+}
+.tieude:active{
+   color: rgb(136, 136, 213);
+
+}
